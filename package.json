@@ -1,4 +1,4 @@
-{
+{ 
   "dependencies": {
     "co": "^4.6.0",
     "fs-extra-promise": "^0.4.1"
